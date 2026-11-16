@@ -1,0 +1,8 @@
+{
+  "name": "Remix Chandgaon Taekwondo Academy",
+  "description": "Bangla-first bilingual official digital experience for Chandgaon Taekwondo Academy (CTA), Chattogram — featuring interactive 3D Taekwondo choreography, vintage dither shaders, belt curriculum, master mentorship, and trial class enrollment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
